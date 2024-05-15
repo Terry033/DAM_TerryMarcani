@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DAM_TerryMarcani</string>
+    <string name="examenDeAdmisionValue">Examen de Admisión 2024</string>
+    <string name="lastNameAndNameValue">Apellidos y Nombre :</string>
+    <string name="emailValue">Correo Electrónico :</string>
+    <string name="passwordValue">Clave :</string>
+    <string name="birthdateValue">Fecha de Nacimiento</string>
+    <string name="comoSeEnteroValue">¿Por qué medio se enteró de la convocatoria?</string>
+    <string name="carreraValue">Carrera :</string>
+    <string name="ingSistemasValue">Ingeniería de Sistemas</string>
+    <string name="ingAmbientalValue">Ingeniería Ambiental</string>
+    <string name="ingMecanicaValue">Ingeniería Mecánica</string>
+    <string name="administracionValue">Administración</string>
+    <string name="radioValue">Radio</string>
+    <string name="internetValue">Internet</string>
+    <string name="amigoValue">Amigo</string>
+    <string name="publicidadValue">Publicidad</string>
+</resources>
